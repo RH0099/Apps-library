@@ -32,13 +32,13 @@ gh auth login
  https://github.com/login/device
 
 ```
-"উপরের লিংক এর ওয়েবসাইটে গিয়ে Authorize কর"
-1️⃣ GitHub login করো 
+"উপরের লিংক এর ওয়েবসাইটে গিয়ে Authorize কর" 
+1️⃣ GitHub login করো  
 2️⃣ Code box-এ কপি করে রাখা otp code paste করো:
- → GitHub.com
- → HTTPS
- → Yes
- → Login with a web browser
+ → GitHub.com 
+ → HTTPS 
+ → Yes 
+ → Login with a web browser 
 
 "তখন একটি one-time code যাবে Gmail এ পাঠাবে একটা কপি করে এনে পেস্ট করে দিন
 
