@@ -62,4 +62,4 @@ gh release upload V0.0.1 *.apk --repo RH0099/Apps-library
 ```
 **নোট: উপরে থাকা দুই কমান্ড লাইন এর মধ্যে থাকা কিছু জিনিস আপনাকে আপনার একাউন্ট অনুযায়ী চেঞ্জ করতে হবে যেমন RH0099/Apps-library আমার GitHub একাউন্ট এর নাম এবং অ্যাপস এর ডিরেক্টরি**
 
-[My GitHub account](https://github.comRH0099)
+[My GitHub account](https://github.com/RH0099)
